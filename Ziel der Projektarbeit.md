@@ -7,7 +7,8 @@
                                         -Die parallele verarbeitung wird mit Hilfe der Cuda-Kernen ermöglicht
                                         -Das System erkennt automatisch, wie viele Cuda-Kerne vorhanden sind und berechnet die maximale                                             Anzahl an Parallelabläufe
 
-#Hardware                               -Nvidia Jetson TX1
+#Hardware                               
+                                        -Nvidia Jetson TX1
                                         
                                         -USB 2.0 Kamera MS HD 3000
                                         
