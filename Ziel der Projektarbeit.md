@@ -23,5 +23,4 @@
                                         
                                         -Tensorflow
 
-#Lizenz                                 
-                                        -MIT License
+#Lizenz                                 -MIT License
